@@ -1,0 +1,32 @@
+#team-div {
+    margin-top: 50px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+#member-card {
+    width: 350px;
+    margin: 25px 25px;
+}
+
+.manager-role img {
+    width: 40px;
+    height: auto;
+    margin-bottom: 10px;
+    filter: invert(1);
+}
+
+.engineer-role img {
+    width: 40px;
+    height: auto;
+    margin-bottom: 10px;
+    filter: invert(1);
+}
+
+.intern-role img {
+    width: 40px;
+    height: auto;
+    margin-bottom: 10px;
+    filter: invert(1);
+}
